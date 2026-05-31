@@ -138,4 +138,4 @@ The Hangman drawing progresses as lives are lost:
 * Building a complete interactive terminal game using only C
 
 Screenshot:
-![Game Demo](game-demo-png.png)
+![Game Demo](game-demo.png)
