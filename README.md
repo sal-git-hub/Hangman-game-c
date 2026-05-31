@@ -136,3 +136,6 @@ The Hangman drawing progresses as lives are lost:
 * Using loops to update and display game data
 * Creating functions to separate game logic from display logic
 * Building a complete interactive terminal game using only C
+
+Screenshot:
+![Game Demo](game-demo.png)
